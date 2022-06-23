@@ -1,0 +1,17 @@
+body {
+  background-color: transparent;
+  font-family: "Roboto", sans-serif;
+}
+
+#lineaseparatoria {
+  height: 2px;
+  opacity: 1;
+  background-color: #dddddd;
+}
+
+/* Quienes somos */
+
+h4 {
+  text-align: center;
+  padding-bottom: 2px;
+}
