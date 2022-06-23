@@ -1,12 +1,12 @@
 body {
-  /* background-color: black; */
+  background-color: black;
   font-family: "Roboto", sans-serif;
 }
 
 #lineaseparatoria {
   height: 1px;
   opacity: 1;
-  background-color: grey;
+  background-color: rgb(64, 59, 59);
 }
 
 /* Quienes somos */
@@ -24,7 +24,7 @@ h4 {
 
 .contenedor-img {
   text-align: center;
-  background-color: aqua;
+  background-color: rgb(17, 240, 240);
 }
 
 .contenedor-p {
