@@ -1,12 +1,12 @@
 body {
-  background-color: transparent;
+  /* background-color: black; */
   font-family: "Roboto", sans-serif;
 }
 
 #lineaseparatoria {
-  height: 2px;
+  height: 1px;
   opacity: 1;
-  background-color: #dddddd;
+  background-color: grey;
 }
 
 /* Quienes somos */
@@ -14,4 +14,22 @@ body {
 h4 {
   text-align: center;
   padding-bottom: 2px;
+  padding-top: 2rem;
+  color: #dddddd;
+}
+
+.contenedor {
+  display: flex;
+}
+
+.contenedor-img {
+  text-align: center;
+  background-color: aqua;
+}
+
+.contenedor-p {
+  color: #dddddd;
+  padding-top: 1rem;
+  padding: 40px;
+  text-align: left;
 }
