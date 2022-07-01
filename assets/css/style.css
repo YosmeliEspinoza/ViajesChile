@@ -1,3 +1,4 @@
+/* Body */
 body {
   background-color: black;
   font-family: "Roboto", sans-serif;
@@ -55,14 +56,28 @@ h4 {
   padding: 40px;
   text-align: left;
 }
+/* Card-Body */
+.card-body {
+  background-color: rgb(17, 240, 240);
+}
+
+.card-img-top:hover {
+  transform: scale(1.2);
+}
+
+.card-img-top.active:hover {
+  transform: scale(1);
+}
 
 /* Boton */
 .btn {
   background-color: rgb(17, 240, 240);
+  color: #dddddd;
 }
+
 /* footer  */
 
 footer {
   background-color: rgb(17, 240, 240);
-  margin-top: 2rem;
+  margin-top: 1rem;
 }
